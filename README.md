@@ -178,21 +178,6 @@ MarsRippleNet/
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{marsripplenet2025,
-  title={Mars-RippleNet: Spatial Adaptive Dual-Branch Architecture for Martian Aeolian Ripple Segmentation},
-  author={},
-  journal={},
-  year={2025}
-}
-```
-
----
-
 ## License
 
 MIT License
